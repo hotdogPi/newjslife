@@ -319,3 +319,9 @@ x = 16, y = 17, rule = B3/S23
 9b2o$9b2o$2b2o$3bo$2bo6b3o$2b2o3b2obo$5b2o3bobo$2b3ob3obob3o$bo2bo
 6bo3bo$obobo2b3obo2bo$obobo4bobobo$bo2b5o2b2o$2b2o4bobo$4b4o2bo$2b
 2o6b2o$2bo2bo$4b2o!
+
+x = 33, y = 25, rule = B3/S23
+4b2o$5bo$5bob2o3b2o$6bobo4bo$8bob3o$6bobobo$5bo2bo7b2o$5b2o2bo7bo5b2o$
+7bo15bo$2b2o6bo9b2obo$bobo5bobobo8bo$bo8bo3bo3bo$2o13bobo13b2o$14bo3bo
+3bo8bo$10bo8bobobo5bobo$9bob2o9bo6b2o$9bo15bo$8b2o5bo7bo2b2o$15b2o7bo
+2bo$22bobobo$20b3obo$19bo4bobo$19b2o3b2obo$27bo$27b2o!
